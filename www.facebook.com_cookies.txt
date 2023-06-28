@@ -1,0 +1,1 @@
+# 請使用 chrome/edge 外掛套件 Get cookies.txt LOCALLY 下載 cookies.txt 內容
